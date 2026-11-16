@@ -1,0 +1,12 @@
+[
+  {
+    "rodada": 1,
+    "ferramenta": "buscar_noticias",
+    "status": "retorno"
+  },
+  {
+    "rodada": 2,
+    "ferramenta": "criar_site",
+    "status": "sucesso"
+  }
+]

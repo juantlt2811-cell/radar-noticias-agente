@@ -1,0 +1,4 @@
+google-genai==2.34.0
+requests==2.34.2
+feedparser==6.0.14
+python-dotenv==1.2.4

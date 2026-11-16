@@ -1,0 +1,49 @@
+{
+  "consulta": "delivery de comida e entregadores",
+  "coletado_em": "2026-11-14T02:50:38.936437+00:00",
+  "noticias": [
+    {
+      "id": 1,
+      "titulo": "Magalu lança delivery de comida em mais de 400 cidades para disputar com o iFood - Exame",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcW5JRnZ2LWVwVVByWVVoWktxeDJTYXNiV19YRHNnQkE4dU1Hc054QzYyMlB2cHhJNkt5b01pb0dqSkd4eDNSc2tSSUxSQ3RXeS1TYVJjLWhCMVB0Z3dEVW8tYTJJT3I2czdHR1VYSXMzZGlYYi1oUlhnR3VJSXRuUVBUamV0dzRpTVktdHNFbkgxZUtPXzVmenBtbmFxWHR6elZ0REtmdjFBYUpn?oc=5",
+      "fonte": "Exame",
+      "data": "Wed, 02 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "id": 2,
+      "titulo": "99Food: tecnologia acelera entregas e transforma a experiência no delivery - 16/07/2026 - 99 Food - Estúdio Folha",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQUd6V01yWVZzSFMxc2ZZZ3o3c0VvVGJxci16cWpQUjNfc1AzWURPNWhXVDhkazQ3VnlfTGFPVkg1RHFlYWtsQThiM1BDRDlObDBkNU5XWXlLU2dvY3VSMGwwNklVME51ME1jQUJMMzFNLU85YTdfY2R0RkVuY0Zhc0JmRnhnQVFnSkk1U0VGODRKQjZVR1VMWGVjNWRPUlJxSnlJTjJ2NXZQUkVFOFZrZlo4XzB0NWM1SEtfcGpTWXpLbTRMT2VF?oc=5",
+      "fonte": "Estúdio Folha",
+      "data": "Thu, 16 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "id": 3,
+      "titulo": "Depressão Charles : serviços de entrega de comida estão quase todos suspensos - Público",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOM1E2UDJSSW5UMmRDRzI2WGRIczBwMDNMV0hmeUt1cm8zUjFudGdhcHpJdk55OFhNS0NxOGdJX20wZFlUVkJuQktLMjhsX3ZoX3dmU3pPMWcwYWtTWnB6LU5MeTVGTEZVZ0gzaTVZQTBMQUQ2Zm9ENlVQanNEaTRCTmNTMC13c0c4UFo3RVJIbll1T3IyUnNaMjR5NWdwU2ZURjlXdjFjWWstNElxU2I5UnlwQWdGYVhsenEw?oc=5",
+      "fonte": "Público",
+      "data": "Wed, 11 Nov 2026 15:41:18 GMT"
+    },
+    {
+      "id": 4,
+      "titulo": "Comida quentinha e organizada: Keeta lança formato de entrega dedicada em São Paulo - TudoCelular.com",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNT0EyNkdtd2huNnFteFpaWklaNjdWSVdJNjlxcUM4YV9FdTBvcXVycG14bWktei1YOGNGRGktZ3hEdWxrbVlUR2VKZklHajVpM0p6VHdOTV9mVUpXczhxRmRuNmlLaEMyWEExbWY0QnFuUE1mc24zUVF1T2lXZ0RPQmF4WFpPd2djQ0VoQXhTLXhaajU3TUxiN19fM3FXdDFEV3ZnYTl3?oc=5",
+      "fonte": "TudoCelular.com",
+      "data": "Wed, 01 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "id": 5,
+      "titulo": "Drones levam a comida: restaurantes podem fazer entregas em até cinco minutos com nova aposta do iFood - Seu Dinheiro",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNejY5XzFwYW9QdUwwVmZwNThPNElkTTlpNGEzYlhNNlkwUURPcGl1SGR1T1pZMG9rdDR4eU5jbXByNW1oNlBTWTNNNnBzTnhNblBqQ2dkTlRxaFlxOUdmMWZmMFVqcGFWajJQRTVpcnB4dXBmcHFacEJheVh6amh5RnZhYXNRdm1oVXlxMVk1UUlFQzBqMFVJZ3hjNThlNmtfaFBNSW9KZ1g3T3FfbEhMaUNrUEZGXzF5MzdwQzlFSmJnM1d5cW9qRm9WeVR4dHc5Z0VBcUFrQW9McV93aXRfNkpBMjNNVkg3eEE?oc=5",
+      "fonte": "Seu Dinheiro",
+      "data": "Tue, 02 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "id": 6,
+      "titulo": "Airbnb vai oferecer entrega de comida, aluguel de carro e reserva em hotéis - O GLOBO",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOXzVwMDluaHNVSFN1UWhUTmZtQkQ1Q1BCeTVuckpFeXA4LVNpcnVva1VXaERsbmU1QjVEMHA5UzNQNkViU0d1ZDNySXhwUkFkSXVrdFpqLUowd0I1NzJJUUl0TWd1MDJXeGVPRUJHeHByMGh6QUlYQzk5SVRZdW03elVHbXZ4UnFDOVNueklOTURPeElDWUpWMzlOeWluQjBWVXBwd2lOdUVTaldPSWI3RVdWQlFsZkZsYS1kLWpiaXdCQ0xicWR6cnAxQ09JWU0yY1l4RHAydC11d9IB6AFBVV95cUxQWWdxUExTUEVxUzZWNEVtN3pxQ25MMlVhdGZycVY4Q1pQWlBIRmtlNUsxNC1NeTdiajlRb2JTU3JyZmdsVTd2ZWNNblZJYmhGRE9JREdReXBXX0xPWmJwUGduWGxQRkx0TEtZaW9jY2tlTVdsYk4tbU9sU0hiMGNTdnBISDFRSjliSU9QbVBwMTNBQUZIYUM4ZHJKaDZJdFdNSFdubG5tU3Z3cUhxRHRxcEpVV2xmc1hOWFAtYl9ZYWJXT04teUFmcjdjYU1ObVBNdkFicDI2V2JvMTFiX2VVSXczOXJxY0M3?oc=5",
+      "fonte": "O GLOBO",
+      "data": "Wed, 20 May 2026 07:00:00 GMT"
+    }
+  ],
+  "url_feed": "https://news.google.com/rss/search?q=delivery+de+comida+e+entregadores&hl=pt-BR&gl=BR&ceid=BR%3Apt-419"
+}

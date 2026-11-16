@@ -1,0 +1,49 @@
+{
+  "consulta": "Google Gemini IA ultimas noticias",
+  "coletado_em": "2026-11-14T02:47:11.734749+00:00",
+  "noticias": [
+    {
+      "id": 1,
+      "titulo": "Google AI Plus perderá acesso aos modelos Gemini Pro nesta sexta-feira (13) - Estadão",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZC00VXd3Wm5zSXZaMVJFVV9zR3JsRjhVSTZJZHBXbDZZT0kwRWhiNEFPZ3BvTmJ1WkN4QUJXQ1pIUXBJeUVoVWZPSktxVWx1OC1nNV9PM2I2YW9fYWRlQkpOUDdCVkNYTTh3aHFXcEZlWFVsMTFVTDg2S1dCYkFxLXJjSHhSZDFVTjV5WUtiUm5lRldtTERUX3RPMnVtV05HUnFvdnBQNVBzaWd3X1NrWU1ibHZ3Z2h3RVBlbHRDdDlyQVl0T3fSAcsBQVVfeXFMTUdTYWtscTZLelAtcHZheGJ4RnZTbV9JeUpSdjVVSTFZSVNQWGtOVW55RXFLUzBfaTVXSTNoREVEUUtEVWZRZXlmSjlqeTdLR0FBUXZuVEx3UFByNi1TYkRyUm9GYllQY0hrQVlCQUkta0I1X0VBVnFfMHJQeUdmM2tJRWtRYTQwY2lJelgySGlaQ1RycENDWDc2dHVYR3J5Qk1JN2E0NUU5bnRKTi1YUmhhektvaEphaGoxTkxmLWRkOXRiYzF0STA4d0U?oc=5",
+      "fonte": "Estadão",
+      "data": "Fri, 13 Nov 2026 11:00:00 GMT"
+    },
+    {
+      "id": 2,
+      "titulo": "ChatGPT, Claude e Gemini: qual a melhor IA para o seu perfil de uso? - CNN Brasil",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOXpEV0djdzlYeDFiY1lsRWw4MFhrMGFsLURtbF9DLWVHakxvWmZDbnowdHhuX2UzenktWDFCWUZnbEJMZ2VLM2dwTlZ6c29fX0tPcHNVTVc4MnJ6ZlRoQzh1NFhxY3BuS2kyRG9JSG11WVFTbV9YNUJvUlIwTzFuTTdBTkdmWnRaNGR5d285cDlaMHU3dzVTcWJnT3pEREVYMnRPSEJGMmRFb0dPLXlTeUNFX3NUbDc0WEptODJwbjdVS01EZTJIQ2FOdjZMZm8?oc=5",
+      "fonte": "CNN Brasil",
+      "data": "Wed, 11 Nov 2026 14:39:13 GMT"
+    },
+    {
+      "id": 3,
+      "titulo": "Google amplia acesso a IA para programação e pesquisa científica - UOL",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaHNwX1dlQnI3aDU3anlEOEdFTmtDdzI4MzlGNXhyaE15R0RxbTVCOVJCcUgxbl96blhDOE1KNk8wTnlUOThGX1c2ZU9lOXc2SHJGMklVVXFHZXVwV21Uanh4ODZ0VHF5ZDVoTFZFTDhRakd5bi1SaW9FNTZscEZSaVB2VTlsOUxNLUEyeGJNd0c1cXhoX0ZsbkxQOUxiOUVScVZjN0dLX2tPc0xhczFsQVVkV3FhZkpOQ2Q4MTgxT3JBT2c?oc=5",
+      "fonte": "UOL",
+      "data": "Tue, 10 Nov 2026 19:26:38 GMT"
+    },
+    {
+      "id": 4,
+      "titulo": "Google lança Gemini 4 Hydrogen, IA intermediária e disponível para todos - Estadão",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZGVHNWxPX1B3UnQyYThVM0ZSeFZOOU5idVhuZjFvOTVDWXZvcXd1UW9oZ3dPZTJnTXo4UE52cDU0clhybkl3b2VINzJUcHIwZ1RQQ2xtTGV4UDdYdzNKRml2bjhXNjY5dXhSUXpNUFN2WVE5bk9HUHhyN2dlUXJ0YnF3d2RIcm9GM0ZGVWlMaEMyTDl3WG03TGM1REQwaDBTT2I5U2FaMjJXS0dhYUdVSG05WjNDMFI1Vjh6eVRuQmxWMzZwdElNb0hSZmvSAdIBQVVfeXFMUHAxS0ctTWFQMEZ5RkF6TF81bml2ckFxTUhvMXdWVHBYRjdHeUZ4RlJsc09tSlk0UGcyXzgzYkNnck9ILXhLX2ZoNEY4cEs4cDRRS29ZTTdEbDdxWGs3RWxtQlZjQnhGSnA5RjBPTHV3SjBrLVRyYWtkcUJOdDFJRU03d3BWRGxHMmRrQzkzb0t2bVJXOW05TEtHbUEzQ0s2eTFGOW1Ec3ZUOUpzbENQeUo1RGRORUg4TDFvU19JZ0ZUc3dIbklVUDRhSUlWQUEzTkhB?oc=5",
+      "fonte": "Estadão",
+      "data": "Fri, 13 Nov 2026 19:00:00 GMT"
+    },
+    {
+      "id": 5,
+      "titulo": "Gemini invadiu três empresas em incidente inédito da IA do Google - VEJA",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcjE1em5CSVc4YkR1T29ONmdCUG9MWmhjQ21kVlh2aGdiZjNuenlUVkNrNExGS3pncldEaXBrUE9zZ1FGbFhVTC1rZDVHSWp1WFE3UFYtektJRG43WE5MUUluLWlpdWY4dkJ3SDNVTGoxbHBCMHN1UVdISHY2QklCRElhSDBIXzkzNUxVM2NKSTR6dnk0Rllid0J3ZVZZRGMwVHlRc2ZB?oc=5",
+      "fonte": "VEJA",
+      "data": "Mon, 21 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "id": 6,
+      "titulo": "Óculos com Gemini do Google chegam às lojas em 10 de dezembro, a partir de US$ 395 - Pasquale Pillitteri",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMGh0bjdMZ1VMdGw3ZEtGREJtUVVGLWp1XzZ2XzhiWHk5N2dwRUdFTzhDdmNBdnZ6dVdxbDBRTEpVS0F4cE5ZcDk1Z0dTbExSX3F0R3FRTzVuc3ZDOG81THoyaGtrX19SUnl6QVk1QVc4NHJLZFBLODBoR1MtbllKNmI4YWRUc1ZURU4xY1g3VQ?oc=5",
+      "fonte": "Pasquale Pillitteri",
+      "data": "Thu, 12 Nov 2026 16:48:56 GMT"
+    }
+  ],
+  "url_feed": "https://news.google.com/rss/search?q=Google+Gemini+IA+ultimas+noticias&hl=pt-BR&gl=BR&ceid=BR%3Apt-419"
+}

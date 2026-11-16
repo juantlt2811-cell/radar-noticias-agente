@@ -1,0 +1,49 @@
+{
+  "consulta": "delivery de comida e entregadores",
+  "coletado_em": "2026-11-15T18:57:35.618516+00:00",
+  "noticias": [
+    {
+      "id": 1,
+      "titulo": "Magalu lança delivery de comida em mais de 400 cidades para disputar com o iFood - Exame",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcW5JRnZ2LWVwVVByWVVoWktxeDJTYXNiV19YRHNnQkE4dU1Hc054QzYyMlB2cHhJNkt5b01pb0dqSkd4eDNSc2tSSUxSQ3RXeS1TYVJjLWhCMVB0Z3dEVW8tYTJJT3I2czdHR1VYSXMzZGlYYi1oUlhnR3VJSXRuUVBUamV0dzRpTVktdHNFbkgxZUtPXzVmenBtbmFxWHR6elZ0REtmdjFBYUpn?oc=5",
+      "fonte": "Exame",
+      "data": "Wed, 02 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "id": 2,
+      "titulo": "99Food: tecnologia acelera entregas e transforma a experiência no delivery - 16/07/2026 - 99 Food - Estúdio Folha",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQUd6V01yWVZzSFMxc2ZZZ3o3c0VvVGJxci16cWpQUjNfc1AzWURPNWhXVDhkazQ3VnlfTGFPVkg1RHFlYWtsQThiM1BDRDlObDBkNU5XWXlLU2dvY3VSMGwwNklVME51ME1jQUJMMzFNLU85YTdfY2R0RkVuY0Zhc0JmRnhnQVFnSkk1U0VGODRKQjZVR1VMWGVjNWRPUlJxSnlJTjJ2NXZQUkVFOFZrZlo4XzB0NWM1SEtfcGpTWXpLbTRMT2VF?oc=5",
+      "fonte": "Estúdio Folha",
+      "data": "Thu, 16 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "id": 3,
+      "titulo": "O entregador de comida que ganhou um dos principais prêmios literários da China - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBMTlNaMEhOQ0dTd1VCeHY0ZDNmNk50dk1LNlZ5Z2R6OVR5aDIxSVZCcTRtcXpiSVA2QmVfTy1CRXgzX2lHb2x4Sngxc0MxemMxWExKWF8yN2VZeXVUTDI0cVdn0gFnQVVfeXFMTzFOd25YRHpZZWo5SmJ0ZkUxaENra3VqUVZxVWFnbUtLTkZnWjdJOFhSNHBpdFQ0Ym8zY2xOOWVha0t6bE1nbFpwQ3U3dzRmVldVeEVzX1hXdktvbmNHS0RlWkVObHZqYw?oc=5",
+      "fonte": "BBC",
+      "data": "Thu, 23 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "id": 4,
+      "titulo": "Drones levam a comida: restaurantes podem fazer entregas em até cinco minutos com nova aposta do iFood - Seu Dinheiro",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNejY5XzFwYW9QdUwwVmZwNThPNElkTTlpNGEzYlhNNlkwUURPcGl1SGR1T1pZMG9rdDR4eU5jbXByNW1oNlBTWTNNNnBzTnhNblBqQ2dkTlRxaFlxOUdmMWZmMFVqcGFWajJQRTVpcnB4dXBmcHFacEJheVh6amh5RnZhYXNRdm1oVXlxMVk1UUlFQzBqMFVJZ3hjNThlNmtfaFBNSW9KZ1g3T3FfbEhMaUNrUEZGXzF5MzdwQzlFSmJnM1d5cW9qRm9WeVR4dHc5Z0VBcUFrQW9McV93aXRfNkpBMjNNVkg3eEE?oc=5",
+      "fonte": "Seu Dinheiro",
+      "data": "Tue, 02 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "id": 5,
+      "titulo": "Pet shop delivery com entrega rápida em casa - iFood",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE54Y25menM3VHJ1N3I4YXk4V1N1Z3pJczg0NEFUR1JZX0VaaFVpMVNrZmZ4Z29QSlEycWZGN0p5VkxqUHVOUXlUZ1FVS1FpR0FoNmFFMFdHeWw3YTFPMEFWV0xnVFJfM0Q5ZHhnNkhBbw?oc=5",
+      "fonte": "iFood",
+      "data": "Mon, 01 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "id": 6,
+      "titulo": "30 entregas de comida, 100 pacotes de e-commerce e R$ 200 por dia: a rotina apressada dos entregadores por app em SP - G1",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQSF9OaVJJdWRjMWpDUUtBbmFnOGM0OURLSnRuU2ttMVhXLTYtS3V4WG5sVGlPTHRXVjVGclNNbXU5RE9FNFlWYzM4dXYyU3hVQTA3OGJpWFpCcjdWLVUzQUNtSjV2TEVHYzBJTkdhNEYyQjMzR09CdFhuSzVVTmdoMm50Rk1JeUwtaVJpWVRvblNrX1gtS2pkbVdRNGdGN21saHVNQzZjZHlZTkVGblBXcWxuWVpGWUtZbDA1dGJvQXlZX0JNM0JGSU81R2NqYWdrR3h6LUtHUFluZWxhMG9oNWM0SDAzbmR1YjlfUW9YNmhkTUNGdDNFT0g5ektjX0RTWlHSAZACQVVfeXFMUFhwVi1BVjZUZ3FwWFl3OC1OUjc1MlpXbnRCZVJuQXpzX2kxcVgzNjhrMDNhcFFXbGdhVndqVTY4WVVTLWxuYWg1U09ialRrUWpqQ2NCVkFZbDlqX2RRM2RaVl95cTZpQ0FSVXpMQWZJcmRRb1pZVnB1aWIyR2NCT2wyM29PMVJwZEJOWEtoWTJFbzdBRXJOTFJSWlZqbmp1VHVDTzlramhabF96cVAzVDBrVkkyWkxaR2JVVzRScjdud3lTV0V4WEFPYmVKalFHNlZ1MHFxUkFlRERPNm5XdUxQRTJCTUxxLVVxTTkwZE1BMUQ4b2RXNVR5UWM3M2dLcld0ZXR5cFJ1di1pd3JJZDc?oc=5",
+      "fonte": "G1",
+      "data": "Sat, 02 May 2026 07:00:00 GMT"
+    }
+  ],
+  "url_feed": "https://news.google.com/rss/search?q=delivery+de+comida+e+entregadores&hl=pt-BR&gl=BR&ceid=BR%3Apt-419"
+}

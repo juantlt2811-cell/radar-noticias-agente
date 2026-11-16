@@ -1,0 +1,28 @@
+test_cancelamento_nao_cria_nada (__main__.TestCriacaoComNoticias.test_cancelamento_nao_cria_nada) ... ok
+test_nao_aceita_nova_chamada_apos_encerrar (__main__.TestCriacaoComNoticias.test_nao_aceita_nova_chamada_apos_encerrar) ... ok
+test_qualquer_resposta_diferente_de_s_cancela (__main__.TestCriacaoComNoticias.test_qualquer_resposta_diferente_de_s_cancela) ... ok
+test_recusa_paleta_invalida (__main__.TestCriacaoComNoticias.test_recusa_paleta_invalida) ... ok
+test_sucesso_grava_arquivos (__main__.TestCriacaoComNoticias.test_sucesso_grava_arquivos) ... ok
+test_recusa_lista_vazia (__main__.TestCriacaoSemNoticias.test_recusa_lista_vazia) ... ok
+test_recusa_sem_busca_previa (__main__.TestCriacaoSemNoticias.test_recusa_sem_busca_previa) ... ok
+test_corta_titulo_longo (__main__.TestFiltroDoFeed.test_corta_titulo_longo) ... ok
+test_descarta_links_inseguros_e_duplicados (__main__.TestFiltroDoFeed.test_descarta_links_inseguros_e_duplicados) ... ok
+test_feed_vazio_devolve_lista_vazia (__main__.TestFiltroDoFeed.test_feed_vazio_devolve_lista_vazia) ... ok
+test_guarda_fonte_e_data_do_feed (__main__.TestFiltroDoFeed.test_guarda_fonte_e_data_do_feed) ... ok
+test_limita_a_seis_noticias (__main__.TestFiltroDoFeed.test_limita_a_seis_noticias) ... ok
+test_consulta_invalida_levanta_value_error (__main__.TestLimitesDaBusca.test_consulta_invalida_levanta_value_error) ... ok
+test_ferramenta_desconhecida (__main__.TestLimitesDaBusca.test_ferramenta_desconhecida) ... ok
+test_limite_de_duas_buscas (__main__.TestLimitesDaBusca.test_limite_de_duas_buscas) ... ok
+test_recusa_argumento_extra (__main__.TestLimitesDaBusca.test_recusa_argumento_extra) ... ok
+test_recusa_nova_busca_se_ja_ha_noticias (__main__.TestLimitesDaBusca.test_recusa_nova_busca_se_ja_ha_noticias) ... ok
+test_criar_site_nao_recebe_noticias (__main__.TestRenderizacao.test_criar_site_nao_recebe_noticias) ... ok
+test_enum_do_esquema_acompanha_o_dicionario (__main__.TestRenderizacao.test_enum_do_esquema_acompanha_o_dicionario) ... ok
+test_escapa_conteudo_externo (__main__.TestRenderizacao.test_escapa_conteudo_externo) ... ok
+test_politica_de_seguranca_presente (__main__.TestRenderizacao.test_politica_de_seguranca_presente) ... ok
+test_todas_as_paletas_estao_nas_instrucoes (__main__.TestRenderizacao.test_todas_as_paletas_estao_nas_instrucoes) ... ok
+test_todas_as_paletas_renderizam_com_suas_cores (__main__.TestRenderizacao.test_todas_as_paletas_renderizam_com_suas_cores) ... ok
+
+----------------------------------------------------------------------
+Ran 23 tests in 0.032s
+
+OK
